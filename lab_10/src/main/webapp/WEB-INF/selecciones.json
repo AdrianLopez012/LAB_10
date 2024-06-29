@@ -1,0 +1,380 @@
+[
+  {
+    "nombre": "Argentina",
+    "tecnico": "Lionel Scaloni",
+    "estadio": {
+      "nombre": "Estadio Monumental",
+      "provincia": "Buenos Aires",
+      "club": "River Plate"
+    }
+  },
+  {
+    "nombre": "Brasil",
+    "tecnico": "Tite",
+    "estadio": {
+      "nombre": "Maracaná",
+      "provincia": "Río de Janeiro",
+      "club": null
+    }
+  },
+  {
+    "nombre": "España",
+    "tecnico": "Luis Enrique",
+    "estadio": {
+      "nombre": "Estadio Santiago Bernabéu",
+      "provincia": "Madrid",
+      "club": "Real Madrid"
+    }
+  },
+  {
+    "nombre": "Alemania",
+    "tecnico": "Hansi Flick",
+    "estadio": {
+      "nombre": "Allianz Arena",
+      "provincia": "Baviera",
+      "club": "Bayern Múnich"
+    }
+  },
+  {
+    "nombre": "Francia",
+    "tecnico": "Didier Deschamps",
+    "estadio": {
+      "nombre": "Stade de France",
+      "provincia": "Île-de-France",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Italia",
+    "tecnico": "Roberto Mancini",
+    "estadio": {
+      "nombre": "Stadio Olimpico",
+      "provincia": "Lazio",
+      "club": "AS Roma"
+    }
+  },
+  {
+    "nombre": "Inglaterra",
+    "tecnico": "Gareth Southgate",
+    "estadio": {
+      "nombre": "Wembley Stadium",
+      "provincia": "Londres",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Portugal",
+    "tecnico": "Fernando Santos",
+    "estadio": {
+      "nombre": "Estádio da Luz",
+      "provincia": "Lisboa",
+      "club": "Benfica"
+    }
+  },
+  {
+    "nombre": "Países Bajos",
+    "tecnico": "Frank de Boer",
+    "estadio": {
+      "nombre": "Johan Cruyff Arena",
+      "provincia": "Ámsterdam",
+      "club": "Ajax"
+    }
+  },
+  {
+    "nombre": "Uruguay",
+    "tecnico": "Óscar Tabárez",
+    "estadio": {
+      "nombre": "Estadio Centenario",
+      "provincia": "Montevideo",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Chile",
+    "tecnico": "Martín Lasarte",
+    "estadio": {
+      "nombre": "Estadio Nacional",
+      "provincia": "Santiago",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Colombia",
+    "tecnico": "Reinaldo Rueda",
+    "estadio": {
+      "nombre": "Estadio Metropolitano",
+      "provincia": "Barranquilla",
+      "club": "Atlético Junior"
+    }
+  },
+  {
+    "nombre": "México",
+    "tecnico": "Gerardo Martino",
+    "estadio": {
+      "nombre": "Estadio Azteca",
+      "provincia": "Ciudad de México",
+      "club": "América"
+    }
+  },
+  {
+    "nombre": "Estados Unidos",
+    "tecnico": "Gregg Berhalter",
+    "estadio": {
+      "nombre": "Rose Bowl",
+      "provincia": "California",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Canadá",
+    "tecnico": "John Herdman",
+    "estadio": {
+      "nombre": "BMO Field",
+      "provincia": "Toronto",
+      "club": "Toronto FC"
+    }
+  },
+  {
+    "nombre": "Japón",
+    "tecnico": "Hajime Moriyasu",
+    "estadio": {
+      "nombre": "Saitama Stadium",
+      "provincia": "Saitama",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Corea del Sur",
+    "tecnico": "Paulo Bento",
+    "estadio": {
+      "nombre": "Seoul World Cup Stadium",
+      "provincia": "Seúl",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Australia",
+    "tecnico": "Graham Arnold",
+    "estadio": {
+      "nombre": "ANZ Stadium",
+      "provincia": "Sídney",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Nigeria",
+    "tecnico": "Gernot Rohr",
+    "estadio": {
+      "nombre": "Abuja National Stadium",
+      "provincia": "Abuja",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Egipto",
+    "tecnico": "Carlos Queiroz",
+    "estadio": {
+      "nombre": "Cairo International Stadium",
+      "provincia": "El Cairo",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Sudáfrica",
+    "tecnico": "Hugo Broos",
+    "estadio": {
+      "nombre": "FNB Stadium",
+      "provincia": "Johannesburgo",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Arabia Saudita",
+    "tecnico": "Hervé Renard",
+    "estadio": {
+      "nombre": "King Fahd International Stadium",
+      "provincia": "Riad",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Irán",
+    "tecnico": "Dragan Skočić",
+    "estadio": {
+      "nombre": "Azadi Stadium",
+      "provincia": "Teherán",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Turquía",
+    "tecnico": "Şenol Güneş",
+    "estadio": {
+      "nombre": "Atatürk Olympic Stadium",
+      "provincia": "Estambul",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Croacia",
+    "tecnico": "Zlatko Dalić",
+    "estadio": {
+      "nombre": "Stadion Maksimir",
+      "provincia": "Zagreb",
+      "club": "Dinamo Zagreb"
+    }
+  },
+  {
+    "nombre": "Rusia",
+    "tecnico": "Stanislav Cherchesov",
+    "estadio": {
+      "nombre": "Luzhniki Stadium",
+      "provincia": "Moscú",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Suecia",
+    "tecnico": "Janne Andersson",
+    "estadio": {
+      "nombre": "Friends Arena",
+      "provincia": "Solna",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Dinamarca",
+    "tecnico": "Kasper Hjulmand",
+    "estadio": {
+      "nombre": "Parken Stadium",
+      "provincia": "Copenhague",
+      "club": "FC Copenhagen"
+    }
+  },
+  {
+    "nombre": "Suiza",
+    "tecnico": "Murat Yakin",
+    "estadio": {
+      "nombre": "St. Jakob-Park",
+      "provincia": "Basilea",
+      "club": "FC Basel"
+    }
+  },
+  {
+    "nombre": "Polonia",
+    "tecnico": "Paulo Sousa",
+    "estadio": {
+      "nombre": "PGE Narodowy",
+      "provincia": "Varsovia",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Bélgica",
+    "tecnico": "Roberto Martínez",
+    "estadio": {
+      "nombre": "King Baudouin Stadium",
+      "provincia": "Bruselas",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Austria",
+    "tecnico": "Franco Foda",
+    "estadio": {
+      "nombre": "Ernst Happel Stadium",
+      "provincia": "Viena",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Noruega",
+    "tecnico": "Ståle Solbakken",
+    "estadio": {
+      "nombre": "Ullevaal Stadium",
+      "provincia": "Oslo",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Escocia",
+    "tecnico": "Steve Clarke",
+    "estadio": {
+      "nombre": "Hampden Park",
+      "provincia": "Glasgow",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Gales",
+    "tecnico": "Robert Page",
+    "estadio": {
+      "nombre": "Cardiff City Stadium",
+      "provincia": "Cardiff",
+      "club": "Cardiff City"
+    }
+  },
+  {
+    "nombre": "República Checa",
+    "tecnico": "Jaroslav Šilhavý",
+    "estadio": {
+      "nombre": "Eden Arena",
+      "provincia": "Praga",
+      "club": "Slavia Praga"
+    }
+  },
+  {
+    "nombre": "Hungría",
+    "tecnico": "Marco Rossi",
+    "estadio": {
+      "nombre": "Puskás Aréna",
+      "provincia": "Budapest",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Rumanía",
+    "tecnico": "Mirel Rădoi",
+    "estadio": {
+      "nombre": "Arena Națională",
+      "provincia": "Bucarest",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Serbia",
+    "tecnico": "Dragan Stojković",
+    "estadio": {
+      "nombre": "Rajko Mitić Stadium",
+      "provincia": "Belgrado",
+      "club": "Red Star Belgrade"
+    }
+  },
+  {
+    "nombre": "Grecia",
+    "tecnico": "John van 't Schip",
+    "estadio": {
+      "nombre": "Olympic Stadium",
+      "provincia": "Atenas",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Israel",
+    "tecnico": "Willi Ruttensteiner",
+    "estadio": {
+      "nombre": "Teddy Stadium",
+      "provincia": "Jerusalén",
+      "club": null
+    }
+  },
+  {
+    "nombre": "Ucrania",
+    "tecnico": "Andriy Shevchenko",
+    "estadio": {
+      "nombre": "NSC Olimpiyskiy",
+      "provincia": "Kiev",
+      "club": null
+    }
+  }
+]
